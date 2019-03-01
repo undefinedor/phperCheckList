@@ -126,9 +126,7 @@
 ![image](http://images0.cnblogs.com/blog/511662/201311/22213110-f17b10a2fbd4428abd6c806c33fc7d10.png)
 
 ### PHP生命周期
-![image](//github.com/pangudashu/php7-internal/raw/master/img/php.png)
-
-
+![image](https://github.com/pangudashu/php7-internal/raw/master/img/php.png)
 
 ## MYSQL
 - 存储引擎 
